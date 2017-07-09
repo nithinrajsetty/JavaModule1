@@ -9,7 +9,7 @@ class Ideone
 	{
 	  int x1;
 	  Scanner s= new Scanner(System.in);
-	  system.out.println("ENTER x1:");
+	  System.out.println("ENTER x1:");
 	  x1=s.nextInt();
 	  if(x1>0)
 	  System.out.println("x1 is POITIVE");
