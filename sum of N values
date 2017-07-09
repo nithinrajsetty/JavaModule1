@@ -11,7 +11,7 @@ class Ideone
 	  int s1=0;
 	 Scanner s= new Scanner(System.in);
 	 x1=s.nextInt();
-	 for(i=1;i<x1;i++)
+	 for(i=1;i<=x1;i++)
 	 s1=s1+i;
 	 System.out.println("sum:"+s1);
   	}
